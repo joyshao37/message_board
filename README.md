@@ -1,1 +1,1 @@
-https://mysterious-earth-1349.herokuapp.com/messages
+https://mysterious-earth-1349.herokuapp.com
